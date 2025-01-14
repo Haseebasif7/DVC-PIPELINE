@@ -1,4 +1,4 @@
 [core]
-    remote = tempfolder
-['remote "tempfolder"']
-    url = ../s3
+    remote = myremote
+['remote "myremote"']
+    url = ../Storage
