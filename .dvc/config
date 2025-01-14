@@ -1,0 +1,4 @@
+[core]
+    remote = tempfolder
+['remote "tempfolder"']
+    url = ../s3
