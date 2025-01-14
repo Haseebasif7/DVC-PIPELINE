@@ -44,3 +44,8 @@ stages:
 #- dvclive/params.yaml
 metrics:
 - dvclive/metrics.json
+params:
+- dvclive/params.yaml
+plots:
+- dvclive/plots/metrics:
+    x: step
