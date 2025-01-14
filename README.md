@@ -1,4 +1,5 @@
-**ML Pipeline with Data Version Control**
+# **ML Pipeline with Data Version Control**
+
 This repository implements a  Machine Learning (ML) pipeline using Data Version Control (DVC) for efficient tracking and management of large datasets and models. The pipeline integrates with Local Storage (can use remote cloud storage ) to store versioned data and artifacts, ensuring scalability.
 
 Key Features:
